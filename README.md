@@ -25,14 +25,14 @@
 ### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
+## INPUT:
+
 ## OUTPUT:
-![WhatsApp Image 2023-11-21 at 16 14 33_a11daed8](https://github.com/tharunkumaran2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625188/2fdaf28b-2aa6-4c19-8d75-5c5dfc02b186)
+![Screenshot 2024-01-01 233631](https://github.com/tharunkumaran2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625188/ad044d4a-8b90-461f-949e-84f1b2ddf07f)
 
 
-![WhatsApp Image 2023-11-21 at 16 14 33_a9705173](https://github.com/tharunkumaran2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625188/513bf4d6-e6bc-42f0-a29f-bccdc3358525)
+![Screenshot 2024-01-01 233647](https://github.com/tharunkumaran2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151625188/abddbb24-ae3a-436a-b905-743fe41094c4)
 
-
-## Output:
 
 ### Name:Tharun V K
 ### Register Number:23003686
